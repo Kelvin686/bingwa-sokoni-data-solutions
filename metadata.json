@@ -1,0 +1,6 @@
+{
+  "name": "Bingwa Sokoni Data Solutions",
+  "description": "Browse and buy Safaricom data bundles, minutes, and SMS deals from Bingwa Sokoni with instant M-Pesa Till payment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
